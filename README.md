@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit kumar
 - 👀 I’m interested in programming language.
-- 🌱 I’m currently learning Advance Java.
+- 🌱 I have did course of Advance Java.
 - 💞️ I’m looking to collaborate on Developer Profile.
 - 📫 My Mail ID is rohit24kumar44@gmail.com
 
